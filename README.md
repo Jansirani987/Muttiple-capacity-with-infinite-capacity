@@ -56,4 +56,6 @@ print("--------------------------------------------------------------")
 <img width="1081" height="388" alt="image" src="https://github.com/user-attachments/assets/a32c2474-faae-434c-aba1-74d0def256c0" />
 
 ## Result : 
+The average number of material in the system and in the conveyor and waiting are successfully found.
+
 
